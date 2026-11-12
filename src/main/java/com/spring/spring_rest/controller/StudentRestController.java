@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.spring.spring_rest.dto.StudentDto;
-import com.spring.spring_rest.entity.Student;
 import com.spring.spring_rest.service.StudentService;
 
 import jakarta.validation.Valid;
